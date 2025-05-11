@@ -1,1 +1,1 @@
-# job-search-scheduler
+# job-alerts
